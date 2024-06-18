@@ -1,0 +1,6 @@
+__pycache__
+__init__.py
+results*
+*.log
+*.csv
+*.h5
